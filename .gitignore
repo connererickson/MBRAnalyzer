@@ -6,8 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
-# all txt files
+# all txt files and executable files
 *.txt
+mbr_info
 
 # Distribution / packaging
 .Python
